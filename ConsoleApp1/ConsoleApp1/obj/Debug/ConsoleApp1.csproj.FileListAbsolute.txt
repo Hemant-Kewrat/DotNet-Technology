@@ -1,0 +1,7 @@
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
