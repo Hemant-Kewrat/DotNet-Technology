@@ -1,0 +1,7 @@
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\bin\Debug\lab6.exe.config
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\bin\Debug\lab6.exe
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\bin\Debug\lab6.pdb
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\obj\Debug\lab6.exe
+E:\hemant imp files\hemant\BCA\5th sem\DotNet Technology\c# lab\lab6\lab6\obj\Debug\lab6.pdb
